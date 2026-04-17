@@ -1,0 +1,14 @@
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\bin\Debug\net10.0\Calc.exe
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\bin\Debug\net10.0\Calc.deps.json
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\bin\Debug\net10.0\Calc.runtimeconfig.json
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\bin\Debug\net10.0\Calc.dll
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\bin\Debug\net10.0\Calc.pdb
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\obj\Debug\net10.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\obj\Debug\net10.0\Calc.AssemblyInfoInputs.cache
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\obj\Debug\net10.0\Calc.AssemblyInfo.cs
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\obj\Debug\net10.0\Calc.csproj.CoreCompileInputs.cache
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\obj\Debug\net10.0\Calc.dll
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\obj\Debug\net10.0\refint\Calc.dll
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\obj\Debug\net10.0\Calc.pdb
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\obj\Debug\net10.0\Calc.genruntimeconfig.cache
+D:\CapgeminiTR\T2_DotNet\Devops\Calc\obj\Debug\net10.0\ref\Calc.dll
